@@ -139,7 +139,6 @@ int main()
     bool result;
     for (int i = 0; i < 81;i++)
             cin >> arr[i];
-    cout << endl;
     Sudoku su(arr);
     Sudoku su_reverse(arr);
     result = guess1(0, &su, fp);

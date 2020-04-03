@@ -7,7 +7,6 @@ int main(void)
     bool result = true;
     for (int i = 0; i < 81;i++)
             cin >> arr[i];
-    cout << endl;
     Sudoku su(arr);
     while(result)
     {
