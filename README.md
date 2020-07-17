@@ -1,4 +1,4 @@
-# pd2-sudoku
+# sudoku
 ## Input / Output
 ### Generate
 1. Output sudoku problem when execution
